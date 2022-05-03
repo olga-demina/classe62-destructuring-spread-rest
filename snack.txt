@@ -1,0 +1,8 @@
+Snack 1
+Creare un array di oggetti:
+Ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e peso.
+Stampare a schermo la bici con peso minore utilizzando destructuring e template literal
+
+1. creare l'array di oggetti
+2. trovare la bici con il peso minore
+3. output -> stampare i dati di questa bici
